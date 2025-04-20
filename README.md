@@ -83,6 +83,7 @@ endmodule
 ```
 
  Developed by: R.Subithra 
+ 
  RegisterNumber: 212224110050
  
 **Logic symbol & Truthtable**
